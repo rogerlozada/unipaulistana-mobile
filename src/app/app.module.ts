@@ -14,12 +14,7 @@ import { environment } from '../environments/environment';
 import { AngularFirestoreModule } from 'angularfire2/firestore';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyD_nRR9SV2wqWVUB3-IJG6t-UCx0l_DdXY",
-  authDomain: "cadastro-de-cliente-b48d6.firebaseapp.com",
-  databaseURL: "https://cadastro-de-cliente-b48d6.firebaseio.com",
-  projectId: "cadastro-de-cliente-b48d6",
-  storageBucket: "cadastro-de-cliente-b48d6.appspot.com",
-  messagingSenderId: "1048323800304"
+  
 };
 
 @NgModule({
